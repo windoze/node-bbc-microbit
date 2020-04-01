@@ -1,6 +1,6 @@
 {
   "name": "bbc-microbit",
-  "version": "0.2.0",
+  "version": "0.2.0-1",
   "description": "Control a BBC micro:bit from Node.js using BLE ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/node-bbc-microbit"
+    "url": "https://github.com/windoze/node-bbc-microbit"
   },
   "keywords": [
     "micro:bit",
@@ -18,9 +18,9 @@
   "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sandeepmistry/node-bbc-microbit/issues"
+    "url": "https://github.com/windoze/node-bbc-microbit/issues"
   },
-  "homepage": "https://github.com/sandeepmistry/node-bbc-microbit",
+  "homepage": "https://github.com/windoze/node-bbc-microbit",
   "dependencies": {
     "noble-device": "github:windoze/noble-device#1.4.1-1"
   },
